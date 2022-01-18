@@ -1,5 +1,3 @@
-package itec3230;
-
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -624,12 +622,6 @@ public class final_prototype {
 //		pane.add(button, c);
 		frame.setVisible(true);
 	}
-
-	/**
-	 * Create the GUI and show it. For thread safety, this method should be invoked
-	 * from the event-dispatching thread.
-	 */
-
 
 	private static void pastyCheck(JButton b1, JButton b2, JButton b3, JButton b4, JButton b5, JButton b6) {
 		if (but1) {
